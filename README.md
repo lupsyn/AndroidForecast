@@ -22,3 +22,10 @@ in another os, and it should work.
 
 
 ![Preview](https://s15.postimg.org/5a84jmue3/device_2016_11_03_010901.png)
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.

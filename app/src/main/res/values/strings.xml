@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="search_title">Search</string>
+    <string name="empty_value">Use the search form,\nor pinpoint your location!</string>
+</resources>

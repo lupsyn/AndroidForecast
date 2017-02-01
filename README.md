@@ -21,7 +21,7 @@ without thinking to android. For absurd, you can take the same code, put
 in another os, and it should work.
 
 
-![Preview](https://s15.postimg.org/5a84jmue3/device_2016_11_03_010901.png)
+![Preview](https://s23.postimg.org/idl7jitaz/forecast_nexus5x_portrait.png)
 
 
 ## License
